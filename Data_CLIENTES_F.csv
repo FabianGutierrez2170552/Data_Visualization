@@ -1,0 +1,50 @@
+id ;genero ;Rangosedad;Escolaridad ;Score;productos;Estado;Edad;hijos 
+187;Femenino;Entre 25 y 35 años ;Universitario;1;Un producto ;Soltero ;26;si 
+192;Masculino;Menor a 25 años ;Técnico;0;Un producto ;Soltero ;22;si 
+133;Masculino;Entre 36 y 45 años ;Posgrado ;1;Un producto ;Casado ;36;si 
+182;Masculino;Entre 46 y 56 años;Posgrado ;1;Entre 2 y 3 productos ;Viudo ;47;si 
+213;Masculino;Mayor a 56 años ;Posgrado ;1;Entre 2 y 3 productos ;Viudo ;60;si 
+149;Masculino;Entre 36 y 45 años ;Posgrado ;1;Entre 2 y 3 productos ;Divorciado ;37;si 
+124;Masculino;Entre 36 y 45 años ;Posgrado ;1;Entre 2 y 3 productos ;Divorciado ;38;si 
+244;Masculino;Entre 36 y 45 años ;Posgrado ;1;Entre 2 y 3 productos ;Divorciado ;38;si 
+199;Masculino;Entre 36 y 45 años ;Posgrado ;1;Entre 2 y 3 productos ;Divorciado ;38;No 
+140;Femenino;Entre 36 y 45 años ;Posgrado ;0;Entre 2 y 3 productos ;Divorciado ;39;No 
+178;Femenino;Entre 36 y 45 años ;Posgrado ;0;Entre 4 y 6 productos ;Divorciado ;40;No 
+213;Femenino;Entre 36 y 45 años ;Posgrado ;0;Entre 4 y 6 productos ;Divorciado ;40;No 
+187;Femenino;Entre 36 y 45 años ;Posgrado ;0;Entre 4 y 6 productos ;Divorciado ;41;No 
+191;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Divorciado ;41;No 
+222;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Divorciado ;41;No 
+165;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Casado ;42;No 
+155;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Casado ;42;No 
+133;Femenino;Entre 25 y 35 años ;Universitario ;0;Entre 4 y 6 productos ;Casado ;27;No 
+152;Masculino;Entre 25 y 35 años ;Universitario ;1;Entre 4 y 6 productos ;Casado ;27;si 
+173;Masculino;Entre 25 y 35 años ;Universitario ;1;Entre 4 y 6 productos ;Casado ;28;si 
+224;Masculino;Entre 25 y 35 años ;Universitario ;1;Entre 4 y 6 productos ;Casado ;29;si 
+192;Masculino;Entre 25 y 35 años ;Universitario ;1;Entre 4 y 6 productos ;Casado ;30;si 
+142;Masculino;Menor a 25 años ;Técnico;0;Entre 4 y 6 productos ;Casado ;22;si 
+176;Masculino;Menor a 25 años ;Técnico;0;Entre 4 y 6 productos ;Casado ;21;si 
+130;Masculino;Menor a 25 años ;Técnico;0;Un producto ;Casado ;20;si 
+159;Masculino;Menor a 25 años ;Técnico;0;Un producto ;Casado ;20;si 
+170;Masculino;Menor a 25 años ;Técnico;0;Un producto ;Casado ;18;si 
+158;Masculino;Menor a 25 años ;Técnico;1;Un producto ;Casado ;19;si 
+135;Masculino;Menor a 25 años ;Técnico;1;Un producto ;Soltero ;19;si 
+222;Masculino;Menor a 25 años ;Técnico;1;Un producto ;Soltero ;29;si 
+249;Masculino;Menor a 25 años ;Universitario ;0;Un producto ;Soltero ;21;si 
+156;Masculino;Entre 46 y 56 años;Universitario ;1;Un producto ;Viudo ;55;si 
+250;Masculino;Mayor a 56 años ;Universitario ;1;Un producto ;Casado ;61;si 
+152;Masculino;Mayor a 56 años ;Universitario ;1;Un producto ;Casado ;70;si 
+213;Masculino;Mayor a 56 años ;Universitario ;1;Un producto ;Casado ;75;si 
+197;Femenino;Mayor a 56 años ;Universitario ;1;Entre 4 y 6 productos ;Casado ;77;si 
+174;Femenino;Entre 46 y 56 años;Universitario ;1;Entre 4 y 6 productos ;Casado ;55;si 
+175;Femenino;Entre 46 y 56 años;Universitario ;1;Entre 4 y 6 productos ;Casado ;48;si 
+186;Femenino;Entre 46 y 56 años;Universitario ;1;Entre 4 y 6 productos ;Casado ;48;si 
+126;Femenino;Entre 46 y 56 años;Universitario ;1;Entre 4 y 6 productos ;Casado ;49;si 
+219;Femenino;Entre 46 y 56 años;Universitario ;1;Entre 4 y 6 productos ;Casado ;50;si 
+129;Femenino;Entre 36 y 45 años ;Universitario ;1;Entre 4 y 6 productos ;Casado ;50;si 
+231;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Casado ;38;si 
+216;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Casado ;39;si 
+124;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Casado ;40;si 
+214;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Soltero ;42;si 
+223;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Soltero ;40;si 
+195;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Soltero ;39;si 
+171;Femenino;Entre 36 y 45 años ;Universitario ;0;Entre 4 y 6 productos ;Soltero ;38;si 
